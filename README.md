@@ -1,6 +1,6 @@
 ***
 <div align="center">
-    <h1>Pripare for Interviews</h1>
+    <h1>Prepare for Interviews</h1>
 </div>
 
 ***
@@ -16,10 +16,10 @@
 ***
 1- Tell me about your self?
 
- * __Tip:__ Focus on your work abilities and use key words like:
+ * __Tip:__ Focus on your work abilities and use key words like:  
   "HARD WORKING", "ENTHUSIASTIC", "COMMITTED" and "PROFESIONAL"
 
-You should hire me becouse I will learn the job quickly and I will start contributing positively to the team inas fast a time as possible.
+1. You should hire me becouse I will learn the job quickly and I will start contributing positively to the team inas fast a time as possible.
 
 2- __Why do you want to work for us?__
 
