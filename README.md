@@ -70,7 +70,8 @@
 2. Draw up a list of priority tasks and by what time or date they have to completed by.
 3. Work solidly and put the extra hours to get the task done within the set timeframe.
 
-10- Why should we hire you?
+10- __Why should we hire you?__
+
 1. I have read the job desription in detail and I __strongly believe__ I have the necessary __skills, qualities and attributes__ to carry out the job to a __very high standard.__ If you hire me , I will work hard to fit into the team , so I can start __contributing possitively__ in a __very quick timescale.__
 
 11- __When have you worked as part of a team?__
@@ -87,19 +88,51 @@
 
 2. There was't anything I disliked; however, I felt my skills and qualities wre not always used to their full potential. whilst I always did my job properly, professionally and on time, I felt I could have done so much more for my employer given the oportunity.
 
-13- What 3 thing your manager said about you?
+13- __What 3 thing your manager said about you?__
 
-1. That i was reliable, trusthworthy and wehn you were given a job, I knew it would get done to the right standard and on time.  
+1. That I was reliable, trusthworthy and when I were given a job, He knew it would get done to the right standard and on time.  
 2. That the standards of work I delivered were the benchmark for others to follow.
-3. That your positve, professional and hardworking nature always rubbed off on others and that he/she coudl rely on m to do me job properly, on time and to the standards expected. 
+3. That your positve, professional and hardworking nature always rubbed off on others and that he/she could rely on me to do my job properly, on time and to the standards expected. 
 
-14- __What are your salary expectations?__
+14- __What is your salary expectations?__
 * __Tip:__ Research and see what the standard salary is for your role within the industry.
 
 If the salary range for the job is. 40 k - 50 k, say you believe you are worth the top range of the of 50k but that I am prepared to take slightly lower salary of 45k as I understand that I have to prove to you that I will be a geat fit for the role.
 
-15- __Can you give me and example of a difficult situation you faced in a previous job and how you dealt with it?
+15- __Can you give me and example of a difficult situation you faced in a previous job and how you dealt with it?__
 
+1. I was working as part of a team when my manager come in and told us all, the deadline for completion of the project had been cut significantly. This meant we now had only seven days to complete the project successfully. I approached the situation by being positive, putting in the extra hours needed to complete the project and by also motivating the other members ot the team to do the same.
 
+16- __Could you explain the gaps in your employment history?__
+* __Tip:__ Use great reasons to be off: Voluntering, Travelling, looking after sick or ill relatives. Raiseing or supporting your family.
+
+1. The time I had off enabled me to improve my existing skillset and I now believe I am a much better and more focused employee for the experience.
+
+17- __What it the greatest achievement to date?__
+
+There had a situation where the Jenkins server got hack and started mining. A company Policy required that needed to be mitigated inmeditly. The company starte lossing 3k a day. I created a meeting with the end user develper team to find out the must important things needed. I mangage to migrate the server and install new security measures to the standart PCI 3. 
+
+18- __What would you do on your 30 days of starting?__
+
+1. I would optiaon a ful frief from you, my manager, on what you expected from me and the standars I needed to work to.
+2. I would get to know my team really well so I could understand the type of things I could do to start contributing positevely to the organizaiotns goals quickly.
+3. I would look to complete my first important project or task in the fastest time possible to show you what I am capable of within the role, and to also repay the faith you have shown in me by employing me on the position.
+  
+19- __When did you have a disagreement with your manager?__
+* __Tip:__ I want to be challenged at times, but I want somebody to challenge me in a positve way. If I do not agree with them, I want them to respect that also. 
+
+Following a team teeting I disagreed with a proposal my manager had put forward. I decided to speak to him in  private to offer an alternative suggestion. I explained to him, in a respectful and professional manner, the reasons why I disagreed with him, and that I thought there might be some mileage in expoloring the option I had come up with. He listened to my suggestions but decide no to go ahead with them, which I totally respected. I think it,s always good to say if you disagree with something, providing you put the needs of the company first and you do it with respect and professionalism. 
+
+20- __What motivates you?__
+
+1. Doing a great job for my employer.
+2. Continually improving within my role.
+3. Felling that I am contiually contributing and adding value to the company I am working for.
+
+21- __Do you have any questions?__
+
+1. What do you need me to concentrate on in the first few weeks of starting? 
+2. What are the future plans for the company and do you have any exciting products or servicies being launched soon?
+3. What frustrated you about previous employees who ocupied the same role that I am bieng interviewed for today?
 
 ***
